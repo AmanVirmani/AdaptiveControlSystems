@@ -1,6 +1,8 @@
 # AdaptiveControlSystems
 Please run "CompleteSystem.m" in matlab
-
+Authors:
+Aman Virmani
+Mahmoud Dahmani 
 Implementation from the paper: 
 {
 Fuchun Sun,Z engqi Sun and Peng-Yung Woo, 
